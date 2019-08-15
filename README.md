@@ -36,7 +36,6 @@ Let's expand on the first question: "Tell me about yourself." Your answer should
 * Some relevant professional experience (aligned to the position!)
 * A recent accomplishment (aligned to the position!)
 * 1-2 things you like to do in your free time (something unique and memorable)
-* An expression of gratitude for the opportunity
 
 ## The STAR Technique
 
