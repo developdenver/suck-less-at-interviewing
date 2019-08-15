@@ -32,7 +32,6 @@ Always keep your answers brief unless they ask you to expand. You do more damage
 Let's expand on the first question: "Tell me about yourself." Your answer should:
 
 * Should be brief
-* Include your name
 * Include what you do (be aligned to the position!)
 * Some relevant professional experience (aligned to the position!)
 * A recent accomplishment (aligned to the position!)
